@@ -1,0 +1,6 @@
+{  
+ "backend-service-url": "http://34.101.243.100:3000",
+ "frontend-service-url": "http://submissionmlgc-paulusadityaw.et.r.appspot.com",
+ "project-id": "submissionmlgc-paulusadityaw",
+ "bucket-name": "asclepius-database"
+}
